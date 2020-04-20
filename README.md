@@ -1,4 +1,4 @@
-# Thomas R. Williams Privacy Policy
+# Thomas R. Williams - Privacy Policy
 ## PRIVACY NOTICE
 
 Last updated 04/19/2020
@@ -11,13 +11,13 @@ When you visit our mobile application, and use our services, you trust us with y
 
 Please read this privacy notice carefully as it will help you make informed decisions about sharing your personal information with us.
 
+
+
 TABLE OF CONTENTS
 
 1. WHAT INFORMATION DO WE COLLECT?
 2. DO WE MAKE UPDATES TO THIS POLICY?
 3. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
-
-
 
 ### WHAT INFORMATION DO WE COLLECT?
 
