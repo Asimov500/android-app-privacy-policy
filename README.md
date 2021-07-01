@@ -1,7 +1,7 @@
 # Asitron Apps - Privacy Policy
 ## PRIVACY NOTICE
 
-Last updated 04/19/2020
+Last updated 01/07/2021
 
 Thank you for choosing this application from Asitron Apps. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at [Contact Us](http://www.asimoventerprises.co.uk//?page=contact) 
 
